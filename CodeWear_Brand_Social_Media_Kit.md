@@ -2,11 +2,11 @@
 
 ## 1. Tagline
 
-**Primary tagline:** Debug Your Day
+**Primary tagline:** Apparel Compiled for Developers
 
 **Alternate taglines (pick based on platform tone):**
 - Wear the Code. Live the Culture. (Selected)
-- Apparel Compiled for Developers.
+- Debug Your Day.
 - By Devs, For Devs.
 - Ship Code. Wear Confidence.
 
