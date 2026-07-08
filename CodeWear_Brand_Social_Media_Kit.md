@@ -2,11 +2,11 @@
 
 ## 1. Tagline
 
-**Primary tagline:** Apparel Compiled for Developers
+**Primary tagline (chosen):** Apparel Compiled for Developers
 
 **Alternate taglines (pick based on platform tone):**
-- Wear the Code. Live the Culture. (Selected)
-- Debug Your Day.
+- Compiled, Not Copied.
+- Wear the Code. Live the Culture.
 - By Devs, For Devs.
 - Ship Code. Wear Confidence.
 
@@ -16,18 +16,18 @@
 
 ### SHORT (for Instagram bio, X/Twitter bio, GMB short description, LinkedIn tagline field — ~150 characters max)
 
-> CodeWear — Premium T-shirts made for developers, by developers. Debug your day. 👨‍💻👩‍💻 #CodeWear
+> CodeWear — Apparel compiled for developers. Premium T-shirts, witty designs, made for people who live in the terminal. 👨‍💻👩‍💻 #CodeWear
 
-*(148 characters)*
+*(142 characters)*
 
 Alternate short version:
-> Developer-first T-shirt brand. Witty designs, premium fabric, made for people who live in the terminal. Debug your day.
+> Developer-first T-shirt brand. Witty designs, premium fabric, apparel actually compiled for people who write code for a living.
 
 ### MID (for Facebook Page "About" short section, Instagram "Story Highlights" intro, LinkedIn "Tagline" + first line of About — ~300–500 characters)
 
-> CodeWear is a T-shirt brand built specifically for developers, engineers, and tech professionals. We design premium, comfortable apparel featuring original coding humor, minimalist syntax art, and dev-culture references — the kind of shirts you'll actually want to wear to the office, a hackathon, or just around town. No generic graphic tees. No corporate swag. Just quality clothing that gets your code — and your jokes.
+> CodeWear is a T-shirt brand built specifically for developers, engineers, and tech professionals — apparel compiled for developers, not just printed for them. We design premium, comfortable clothing featuring original coding humor, minimalist syntax art, and dev-culture references — the kind of shirts you'll actually want to wear to the office, a hackathon, or just around town. No generic graphic tees. No corporate swag. Just quality clothing that gets your code — and your jokes.
 
-*(497 characters)*
+*(Approx. 480 characters)*
 
 ### LONG (for Google Business Profile full description, LinkedIn Company "About" full section, YouTube channel "About" tab, website "About Us" page — 500–1000+ words)
 
@@ -40,12 +40,12 @@ Alternate short version:
 > **What makes CodeWear different:**
 > - **Original designs**, not recycled meme templates — created by people who actually understand the jokes
 > - **Premium fabric and print quality** built to last through daily wear and countless washes
-> - **A brand that gets it** — from "Debug Your Day" everyday tees to custom cohort shirts for coding bootcamps and dev teams
+> - **A brand that gets it** — from everyday tees to custom cohort shirts for coding bootcamps and dev teams
 > - **Bulk & custom options** for tech companies, coding bootcamps, hackathons, and dev meetups looking for branded team apparel
 >
 > Whether you're a backend engineer, a frontend specialist, a DevOps lead, or a CS student about to graduate, CodeWear has a shirt that fits your stack — and your sense of humor.
 >
-> **Debug your day. Wear CodeWear.**
+> **Apparel compiled for developers. Wear something that was actually built for you.**
 
 ---
 
@@ -70,7 +70,7 @@ Alternate short version:
 - **Featured section:** add CodeWear as a featured project with a link/description
 
 ### LinkedIn (Company Page)
-- **Tagline:** Debug Your Day
+- **Tagline:** Apparel Compiled for Developers
 - **Industry:** Apparel & Fashion (or Retail)
 - **Company size:** 1–10 employees (adjust as accurate)
 - **About section:** use LONG description above
@@ -109,7 +109,7 @@ Alternate short version:
 
 ## 5. Hashtag set (Instagram / Facebook / YouTube tags)
 
-**Core brand tags:** #CodeWear #DebugYourDay #DeveloperMerch #CoderLife #ProgrammerHumor
+**Core brand tags:** #CodeWear #ApparelCompiledForDevelopers #DeveloperMerch #CoderLife #ProgrammerHumor
 
 **Niche/community tags:** #DevCulture #CodeLife #TechApparel #ProgrammerTshirt #DeveloperCommunity #100DaysOfCode #CodeNewbie
 
