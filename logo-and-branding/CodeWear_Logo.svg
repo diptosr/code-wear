@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Consolas-Bold, Consolas;
+        font-size: 117.51px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st7 {
+        font-weight: 700;
+      }
+
+      .st0, .st9, .st7 {
+        fill: #fff;
+      }
+
+      .st10 {
+        fill: #0a1420;
+        stroke: url(#linear-gradient1);
+        stroke-linejoin: round;
+        stroke-width: 8px;
+      }
+
+      .st1 {
+        fill: #00e5a8;
+        letter-spacing: .02em;
+      }
+
+      .st1, .st7 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 112.4px;
+      }
+
+      .st11 {
+        opacity: .06;
+      }
+
+      .st3 {
+        stroke: url(#linear-gradient3);
+      }
+
+      .st3, .st5, .st8 {
+        fill: none;
+      }
+
+      .st3, .st8 {
+        opacity: .5;
+        stroke-width: 4px;
+      }
+
+      .st4 {
+        fill: url(#linear-gradient5);
+        opacity: .9;
+      }
+
+      .st5 {
+        opacity: .55;
+        stroke: url(#linear-gradient2);
+        stroke-width: 5px;
+      }
+
+      .st6 {
+        fill: #7fa0b5;
+        font-family: Consolas, Consolas;
+        font-size: 35.76px;
+        letter-spacing: .11em;
+      }
+
+      .st12 {
+        fill: url(#linear-gradient6);
+      }
+
+      .st7 {
+        letter-spacing: .02em;
+      }
+
+      .st13 {
+        fill: url(#linear-gradient);
+      }
+
+      .st8 {
+        stroke: url(#linear-gradient4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-458.54" y1="1040.96" x2="-457.54" y2="1039.96" gradientTransform="translate(458541 1040961) scale(1000 -1000)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1b2a"/>
+      <stop offset="1" stop-color="#132a3e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="-457.84" y1="1041.2" x2="-456.81" y2="1040.17" gradientTransform="translate(183441 408301) scale(400 -392)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e5a8"/>
+      <stop offset="1" stop-color="#00b88a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="-455.9" y1="1043.94" x2="-454.87" y2="1042.91" gradientTransform="translate(62397 35102.47) scale(136 -33.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e5a8"/>
+      <stop offset="1" stop-color="#00b88a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="-450.05" y1="1042.96" x2="-448.77" y2="1041.68" gradientTransform="translate(20977 44061) scale(46 -42)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e5a8"/>
+      <stop offset="1" stop-color="#00b88a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient4" x1="-448.04" y1="1042.82" x2="-447.04" y2="1041.82" gradientTransform="translate(21287 44061) scale(46 -42)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e5a8"/>
+      <stop offset="1" stop-color="#00b88a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient5" x1="-447.62" y1="1047.99" x2="-446.33" y2="1046.7" gradientTransform="translate(18381 16889) scale(40 -16)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e5a8"/>
+      <stop offset="1" stop-color="#00b88a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient6" x1="-456.58" y1="1027.82" x2="-455.3" y2="1026.54" gradientTransform="translate(82571 4990) scale(180 -4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e5a8"/>
+      <stop offset="1" stop-color="#00b88a"/>
+    </linearGradient>
+  </defs>
+  <rect id="Background" class="st13" width="1000" height="1000"/>
+  <g id="Texture" class="st11">
+    <circle class="st9" cx="100" cy="100" r="3"/>
+    <circle class="st9" cx="900" cy="100" r="3"/>
+    <circle class="st9" cx="100" cy="900" r="3"/>
+    <circle class="st9" cx="900" cy="900" r="3"/>
+  </g>
+  <g>
+    <g id="Shirt">
+      <path class="st10" d="M246.54,208.14l83.02-91.96h85.58c57.9,65.57,115.81,65.57,173.71,0h85.58l83.02,91.96-66.42,114.96-61.31-57.48v351.25h-255.46v-351.25l-61.31,57.48-66.42-114.96Z"/>
+      <path class="st5" d="M415.14,116.18c57.9,57.05,115.81,57.05,173.71,0"/>
+      <line class="st3" x1="274.64" y1="256.68" x2="333.39" y2="310.32"/>
+      <line class="st8" x1="729.35" y1="256.68" x2="670.59" y2="310.32"/>
+      <rect class="st4" x="476.45" y="121.29" width="51.09" height="20.44" rx="3" ry="3"/>
+      <g id="ChestPrint">
+        <text class="st0" transform="translate(405.08 431.67)"><tspan x="0" y="0">&lt;/&gt;</tspan></text>
+      </g>
+    </g>
+    <g id="Wordmark">
+      <g class="st2">
+        <text class="st7" transform="translate(214.86 763.76)"><tspan x="0" y="0">Code</tspan></text>
+        <text class="st1" transform="translate(506.08 763.76)"><tspan x="0" y="0">Wear</tspan></text>
+      </g>
+      <text class="st6" transform="translate(137.82 831.46)"><tspan x="0" y="0">APPAREL COMPILED FOR DEVELOPERS</tspan></text>
+      <path class="st12" d="M389.59,878.71h224.8c1.41,0,2.55,1.14,2.55,2.55h0c0,1.41-1.14,2.55-2.55,2.55h-224.8c-1.41,0-2.55-1.14-2.55-2.55h0c0-1.41,1.14-2.55,2.55-2.55Z"/>
+    </g>
+  </g>
+</svg>
