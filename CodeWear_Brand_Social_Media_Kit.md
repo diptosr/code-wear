@@ -5,7 +5,7 @@
 **Primary tagline:** Debug Your Day
 
 **Alternate taglines (pick based on platform tone):**
-- Wear the Code. Live the Culture.
+- Wear the Code. Live the Culture. (Selected)
 - Apparel Compiled for Developers.
 - By Devs, For Devs.
 - Ship Code. Wear Confidence.
