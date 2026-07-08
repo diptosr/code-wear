@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1640 624">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0a1420;
+        stroke: url(#linear-gradient1);
+        stroke-linejoin: round;
+        stroke-width: 8px;
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10 {
+        isolation: isolate;
+      }
+
+      .st1, .st4 {
+        fill: #fff;
+      }
+
+      .st1, .st4, .st10 {
+        font-weight: 700;
+      }
+
+      .st1, .st10 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 104px;
+        letter-spacing: 0em;
+      }
+
+      .st3 {
+        stroke: url(#linear-gradient3);
+      }
+
+      .st3, .st11, .st7, .st9 {
+        fill: none;
+      }
+
+      .st3, .st9 {
+        opacity: .5;
+        stroke-width: 4px;
+      }
+
+      .st4 {
+        font-family: Consolas-Bold, Consolas;
+        font-size: 78.2px;
+      }
+
+      .st5 {
+        fill: url(#linear-gradient5);
+        opacity: .9;
+      }
+
+      .st6 {
+        fill: #7fa0b5;
+        font-family: Consolas, Consolas;
+        font-size: 24px;
+        letter-spacing: .12em;
+      }
+
+      .st11 {
+        stroke: #fff;
+      }
+
+      .st7 {
+        opacity: .55;
+        stroke: url(#linear-gradient2);
+        stroke-width: 5px;
+      }
+
+      .st8 {
+        fill: #dce8ef;
+        font-family: ArialMT, Arial;
+        font-size: 34px;
+      }
+
+      .st12 {
+        fill: url(#linear-gradient);
+      }
+
+      .st13 {
+        opacity: .05;
+      }
+
+      .st9 {
+        stroke: url(#linear-gradient4);
+      }
+
+      .st10 {
+        fill: #00e5a8;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-138.92" y1="852.64" x2="-137.92" y2="851.64" gradientTransform="translate(227821 532045) scale(1640 -624)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1826"/>
+      <stop offset="1" stop-color="#173250"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="-596.45" y1="-187.82" x2="-595.47" y2="-186.84" gradientTransform="translate(238902 73698) scale(400 392)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e5a8"/>
+      <stop offset="1" stop-color="#00b88a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="-593.79" y1="-184.81" x2="-592.8" y2="-183.83" gradientTransform="translate(81162 6299.97) scale(136 33.5)" xlink:href="#linear-gradient1"/>
+    <linearGradient id="linear-gradient3" x1="-584.2" y1="-185.98" x2="-583.35" y2="-185.13" gradientTransform="translate(27232 8008) scale(46 42)" xlink:href="#linear-gradient1"/>
+    <linearGradient id="linear-gradient4" x1="-585.29" y1="-186.05" x2="-584.29" y2="-185.05" gradientTransform="translate(27542 8008) scale(46 42)" xlink:href="#linear-gradient1"/>
+    <linearGradient id="linear-gradient5" x1="-582.72" y1="-181.69" x2="-581.88" y2="-180.86" gradientTransform="translate(23802 3014) scale(40 16)" xlink:href="#linear-gradient1"/>
+  </defs>
+  <rect class="st12" width="1640" height="624"/>
+  <g class="st13">
+    <line class="st11" y1="520" x2="1640" y2="20"/>
+    <line class="st11" y1="600" x2="1640" y2="100"/>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st1" transform="translate(760 258.98)"><tspan x="0" y="0">Code</tspan></text>
+      <text class="st10" transform="translate(1024 258.98)"><tspan x="0" y="0">Wear</tspan></text>
+    </g>
+    <text class="st8" transform="translate(764 314.98)"><tspan x="0" y="0">Premium T-Shirts for Developers &amp; Tech Professionals</tspan></text>
+    <text class="st6" transform="translate(764 362.98)"><tspan x="0" y="0">APPAREL COMPILED FOR DEVELOPERS</tspan></text>
+  </g>
+  <g id="Shirt">
+    <path class="st0" d="M340.01,164.6l55.25-61.2h56.95c38.53,43.63,77.07,43.63,115.6,0h56.95l55.25,61.2-44.2,76.5-40.8-38.25v233.75h-170v-233.75l-40.8,38.25-44.2-76.5h0Z"/>
+    <path class="st7" d="M452.2,103.4c38.53,37.96,77.07,37.96,115.6,0"/>
+    <line class="st3" x1="358.71" y1="196.9" x2="397.8" y2="232.6"/>
+    <line class="st9" x1="661.3" y1="196.9" x2="622.2" y2="232.6"/>
+    <rect class="st5" x="493" y="106.8" width="34" height="13.6" rx="3" ry="3"/>
+    <g id="ChestPrint">
+      <g class="st2">
+        <text class="st4" transform="translate(445.51 313.35)"><tspan x="0" y="0">&lt;/&gt;</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
